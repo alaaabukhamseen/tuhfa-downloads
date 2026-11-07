@@ -1,4 +1,4 @@
-# Tohfa downloads
+# Tuhfa downloads
 
 Finished downloads of Zeena and Mawj. Go to [Releases](../../releases/latest) to get them. Mawj is a free demo right now, with every feature on.
 
